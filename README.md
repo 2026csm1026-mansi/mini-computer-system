@@ -122,3 +122,12 @@ Windows:
 ```powershell
 .\cs527_lab5.exe tests\fir_vector.txt tests\fir_data.byte
 ```
+
+## Features
+
+- Mini computer system simulator
+- Compiler and instruction processing
+- Memory management
+- Scalar and vector registers
+- Vector operations
+- Test programs for array operations and FIR filtering

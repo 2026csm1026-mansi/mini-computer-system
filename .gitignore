@@ -1,0 +1,6 @@
+*.o
+cs527_lab5
+cs527_lab5.exe
+program.byte
+processor_*.log
+data.byte
